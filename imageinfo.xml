@@ -1,0 +1,34 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/ad1.png" filesize="16847" filedate="2020-03-01 11:17:26" width="202px" height="283px">
+</image>
+<image path="images/ad2.png" filesize="11071" filedate="2020-03-01 11:17:27" width="194px" height="290px">
+</image>
+<image path="images/ad3.png" filesize="23569" filedate="2020-03-01 11:17:28" width="343px" height="266px">
+</image>
+<image path="images/back.jpg" filesize="52150" filedate="2020-02-29 22:29:32" width="530px" height="720px">
+</image>
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 14:20:36" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="159" filedate="2018-12-16 14:20:36" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="83082" filedate="2020-02-29 22:29:32" width="540px" height="720px">
+</image>
+<image path="images/frontispiece.png" filesize="52156" filedate="2020-03-01 11:17:33" width="467px" height="720px">
+</image>
+<image path="images/ornament.png" filesize="12399" filedate="2020-03-01 11:17:34" width="566px" height="98px">
+</image>
+<image path="images/p077.png" filesize="46594" filedate="2020-03-01 11:17:38" width="467px" height="720px">
+</image>
+<image path="images/p126.png" filesize="51526" filedate="2020-03-01 11:17:42" width="471px" height="720px">
+</image>
+<image path="images/p161.png" filesize="44408" filedate="2020-03-01 11:17:46" width="467px" height="720px">
+</image>
+<image path="images/qrcode.png" filesize="265" filedate="2020-03-02 20:02:52" width="148px" height="148px">
+</image>
+<image path="images/spine.jpg" filesize="15499" filedate="2020-02-29 22:29:32" width="94px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="21655" filedate="2020-03-01 11:17:50" width="518px" height="720px">
+</image>
+</images>
